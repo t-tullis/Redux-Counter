@@ -1,3 +1,4 @@
+Terrell Tullis
 # Redux Counter
 
 ## Topics
